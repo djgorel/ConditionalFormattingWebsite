@@ -75,6 +75,15 @@ After selecting **Clear Rules from Selected Cells**, the data will revert to its
 
 # Examples of Other Types of Conditional Formatting
 
+There are many other types of conditional formatting, including a top and bottom section that allow you to format values from the top and bottom percentages of the data. This would be useful for the test data to show you the top and bottom percentages.
+
+## Style -> Conditional Formatting -> Top/Bottom  Rules
+To apply this conditional formatting, first select the data like before and choose conditional formatting, but this time select
+
+
+
+
+
 
 
 
