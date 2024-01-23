@@ -122,7 +122,7 @@ You may have noticed when looking at the **Conditional Formatting** dropdown tha
 
 # Conclusion
 Thank you for reading this article, hopefully your understanding of conditional formatting has been improved!
-To try out the data yourself, use this [spreadsheet](https://github.com/djgorel/ConditionalFormattingWebsite/blob/90604739f8b7825c8152bcf166b9add57101f540/ex_tests_blank.xlsx)
+To try out the data yourself, use this [spreadsheet](https://github.com/djgorel/ConditionalFormattingWebsite/blob/90604739f8b7825c8152bcf166b9add57101f540/ex_tests_blank.xlsx).
 
 
 
