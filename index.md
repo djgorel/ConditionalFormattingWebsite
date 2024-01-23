@@ -94,7 +94,34 @@ Now, you have the test data with the top 10% highlighted in green and the bottom
 
 ![alt text](top_bot10cells.png)
 
+## Style -> Conditional Formatting -> Data Bars
+There's another type of conditional formatting that has a very different result from the two previous examples, that being the data bars format. This draws horizontal data bars within the cells indicative of the values contained within. To demonstrate this, utilize the second data set on the daily high in Arizona diuring July 2023.
 
+![alt text](temp_unformatted.png)
+
+Highlight the temperature data, and open **Conditional Formatting** again, this time selecting **Data Bars**
+
+![alt text](data_bar_dropdown.png)
+
+Select the type of bars you want from the dropdown menu, and they will be automatically applied.
+
+![alt text](databars.png)
+## Exercise to Readers
+With the databars now applied, you can see that while they look neat, they aren't too helpful for data so close together like this. However, they would work much better with the test data, as it is widely spread out. Following the example above, apply databars to the test data.
+
+![alt text](data_bars_tests.png)
+
+If you did it correctly, you should have gotten a result like this.
+
+## New Rules
+
+You may have noticed when looking at the **Conditional Formatting** dropdown that you can select **New Rule**. This opens a menu that allows you to create your own rule if you want to format in a way not presented through the default options. However, this is slightly out of the scope of this tutorial, and will not be covered here.
+
+![alt text](cf_dropdown.png) 
+![alt text](new_rule.png)
+
+# Conclusion
+Thank you for reading this article, hopefully your understanding of conditional formatting has been improved!
 
 
 
