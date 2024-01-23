@@ -7,9 +7,12 @@ Below is a step by step tutorial on how to use conditional formatting
 ## Step 1 - Create an Excel Sheet
 ### New -> Blank Workbook
 Before conditional formatting can be applied in excel, you need to create a sheet and fill it with some data. In order to create an excel sheet, open excel and select the **New** button, and then select **Blank Workbook**
+
 ![alt text](new_sheet.png)
 ### Fill in Some Data
 Now that you have a spreadsheet, you'll want to add some data to apply conditional formatting on, such as in either of the examples below:
+
 ![alt text](step1.PNG)
+
 ![alt text](temp_unformatted.png)
 
