@@ -21,7 +21,7 @@ Before applying conditional formatting, you need to select the cells you want to
 
 ![alt text](step1_p2.PNG)
 
-## Style -> Conditional Formatting
+### Style -> Conditional Formatting
 After that, with the data selected, go to the **Style** bar at the top, and selecte **Conditional Formatting**
 
 ![alt text](style_bar.PNG)
@@ -30,5 +30,36 @@ This will present you with the following dropdown menu, showcasing the variety o
 
 ![alt text](cf_dropdown.png)
 
-## Step 3 - 
+## Step 3 - Choose the Formatting Type
+Using this dropdown menu, you can select the type of formatting you would like to apply.
+### Style -> Conditional Formatting -> Highlight Rules -> Greater Than
+For this tutorial, we will use **Highlight Cell Rules**. By hovering over this section, it will display another side menu.
+
+![alt text](highlight_cells.png)
+
+Each of these options allows a different highlighting format to be applied to the selected cells. For example, you can set it to automatically highlight values greater than 50 in yellow, or values between a specific range in red, and others matching the descriptions above. For this tutorial, we will select the **Greater Than** option.
+
+(Note: the above selections work for any of the rules, just with their own respective paths)
+
+## Step 4 - Input the Formatting Options
+The previous step will have brought you the following menu
+
+![alt text](greater.png)
+
+On the left, you enter the number which you would like to use as the parameter for this format. For example, 70, as scores above 70 are a passing grade. On the right, we choose the highlight color to apply, green in our scenario. If you would like to change it, select the color, and you will see a dropdown menu like the following.
+
+![alt text](highlight_dropdown.png)
+
+Click **OK** when you have finalized your formatting choices, and it will automatically be applied.
+
+![alt text](greater_result.png)
+
+As intended, all passing grades are highlighted in green.
+If you had selected any other options from the conditional formatting menu, you would have seen a similar box as the one above, where you enter the values to be considered, and select the formatting you desire. The box would have slightly differed depending on the format selected, such as between requiring two numbers for a range.
+
+
+## Step 5 - Clear Formatting
+
+
+
 
