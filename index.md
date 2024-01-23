@@ -10,6 +10,6 @@ Before conditional formatting can be applied in excel, you need to create a shee
 ![alt text](new_sheet.png)
 ### Fill in Some Data
 Now that you have a spreadsheet, you'll want to add some data to apply conditional formatting on, such as in either of the examples below:
-![alt text](step1.png)
+![alt text](step1.PNG)
 ![alt text](temp_unformatted.png)
 
