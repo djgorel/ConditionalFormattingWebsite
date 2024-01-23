@@ -69,5 +69,11 @@ In order to clear your formatting, you'll go to the **Conditional Formatting** m
 
 At this point, you can either selected **Clear Rules from Selected Cells** to reset the formatting on the highlighted cells, or **Clear Rules from Entire Sheet**
 
+After selecting **Clear Rules from Selected Cells**, the data will revert to its original appearance.
+
+![alt text](step1.PNG)
+
+
+
 
 
