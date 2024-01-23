@@ -28,7 +28,7 @@ After that, with the data selected, go to the **Style** bar at the top, and sele
 
 This will present you with the following dropdown menu, showcasing the variety of conditional formatting options available.
 
-![alt text](cf_dropwdown.png)
+![alt text](cf_dropdown.png)
 
 ## Step 3 - 
 
