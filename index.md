@@ -78,7 +78,21 @@ After selecting **Clear Rules from Selected Cells**, the data will revert to its
 There are many other types of conditional formatting, including a top and bottom section that allow you to format values from the top and bottom percentages of the data. This would be useful for the test data to show you the top and bottom percentages.
 
 ## Style -> Conditional Formatting -> Top/Bottom  Rules
-To apply this conditional formatting, first select the data like before and choose conditional formatting, but this time select
+To apply this conditional formatting, first select the data like before and choose conditional formatting, but this time select **Top/Bottom Rules**
+
+![alt text](top_bottom.png)
+
+From here, select **Top 10%**, and in the following menu select the highlight color desired.
+
+![alt text](top10.png)
+
+To highlight the bottom 10% as well, select the cells once more, and this time follow the same path but select **Bottom 10%**. Follow the same procedure to choose the desired format.
+
+![alt text](bottom10.png)
+
+Now, you have the test data with the top 10% highlighted in green and the bottom 10% highlighted in red.
+
+![alt text](top_bot10cells.png)
 
 
 
