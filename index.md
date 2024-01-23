@@ -16,3 +16,19 @@ Now that you have a spreadsheet, you'll want to add some data to apply condition
 
 ![alt text](temp_unformatted.png)
 
+## Step 2 - Select the Data to Format
+Before applying conditional formatting, you need to select the cells you want to format.
+
+![alt text](step1_p2.PNG)
+
+## Style -> Conditional Formatting
+After that, with the data selected, go to the **Style** bar at the top, and selecte **Conditional Formatting**
+
+![alt text](style_bar.PNG)
+
+This will present you with the following dropdown menu, showcasing the variety of conditional formatting options available.
+
+![alt text](cf_dropwdown.png)
+
+## Step 3 - 
+
