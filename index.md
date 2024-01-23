@@ -73,6 +73,8 @@ After selecting **Clear Rules from Selected Cells**, the data will revert to its
 
 ![alt text](step1.PNG)
 
+# Examples of Other Types of Conditional Formatting
+
 
 
 
