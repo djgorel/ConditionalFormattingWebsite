@@ -58,8 +58,16 @@ As intended, all passing grades are highlighted in green.
 If you had selected any other options from the conditional formatting menu, you would have seen a similar box as the one above, where you enter the values to be considered, and select the formatting you desire. The box would have slightly differed depending on the format selected, such as between requiring two numbers for a range.
 
 
-## Step 5 - Clear Formatting
+## Step 5 - Clear Formatting 
+Sometimes a format doesn't help as much as initially thought, and you may want to remove the format. To start this, you'll want to highlight the cells to remove formatting from
+### Style -> Conditional Formatting -> Clear Rules
 
+In order to clear your formatting, you'll go to the **Conditional Formatting** menu again through the **Style** section, but this time select **Clear Rules** at the bottom, which will bring up an additional side menu
+
+![alt text](clear1.png)
+![alt text](clear2.png)
+
+At this point, you can either selected **Clear Rules from Selected Cells** to reset the formatting on the highlighted cells, or **Clear Rules from Entire Sheet**
 
 
 
